@@ -6,7 +6,7 @@ const config = require('./config.json');
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-  res.send("Bienvenue sur l'intégration des services cloud!");
+  res.send("Bienvenue sur l'intégration des services cloud !");
 });
 
 // Endpoint pour vérifier la connexion aux services
