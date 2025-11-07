@@ -1,0 +1,19 @@
+{
+  "connecteurs": [
+    {
+      "nom": "AWS",
+      "clé": "your_aws_api_key",
+      "secret": "your_aws_api_secret"
+    },
+    {
+      "nom": "Google Cloud",
+      "clé": "your_google_cloud_api_key",
+      "secret": "your_google_cloud_api_secret"
+    },
+    {
+      "nom": "Azure",
+      "clé": "your_azure_api_key",
+      "secret": "your_azure_api_secret"
+    }
+  ]
+}
