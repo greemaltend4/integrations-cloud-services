@@ -2,18 +2,18 @@
   "connecteurs": [
     {
       "nom": "AWS",
-      "clé": "YOUR_ACTUAL_AWS_API_KEY",
-      "secret": "YOUR_ACTUAL_AWS_API_SECRET"
+      "clé": "<AWS_API_KEY>",
+      "secret": "<AWS_API_SECRET>"
     },
     {
       "nom": "Google Cloud",
-      "clé": "YOUR_ACTUAL_GOOGLE_CLOUD_API_KEY",
-      "secret": "YOUR_ACTUAL_GOOGLE_CLOUD_API_SECRET"
+      "clé": "<GOOGLE_CLOUD_API_KEY>",
+      "secret": "<GOOGLE_CLOUD_API_SECRET>"
     },
     {
       "nom": "Azure",
-      "clé": "YOUR_ACTUAL_AZURE_API_KEY",
-      "secret": "YOUR_ACTUAL_AZURE_API_SECRET"
+      "clé": "<AZURE_API_KEY>",
+      "secret": "<AZURE_API_SECRET>"
     }
   ]
 }
